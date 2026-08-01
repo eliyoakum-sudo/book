@@ -14,4 +14,6 @@ Read paragraph outloud (print the ascociated unicode character from the cell)
 
 Note: this has no loops
 
+Computational class: finite state machine
+
 This includes: book.html which is an interpreter
