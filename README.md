@@ -1,5 +1,7 @@
 book
 
+An esoteric programming language
+
 Minimalist esolang similar to brainfuck
 
 Flip page (next cell)
