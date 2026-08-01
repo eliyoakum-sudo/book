@@ -1,6 +1,6 @@
 book
 
-Minimalist similar to brainfuck
+Minimalist esolang similar to brainfuck
 
 Flip page (next cell)
 
